@@ -23,7 +23,7 @@ body {
     width: 100%;
 }
 
-.heading {
+h1{
     margin: 0.8em 0;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
