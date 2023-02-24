@@ -15,9 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/final-screen-shot.png)
 
-## My process
+### Links
 
-### Built with
+- Solution URL: [github](https://github.com/rafikchb/mentor-qr-code-challenge)
+- Live Site URL: [on github page](https://rafikchb.github.io/mentor-qr-code-challenge/)
 
-- Semantic HTML5 markup
-- CSS
+## Author
+- [github.com/rafikchb](https://github.com/rafikchb)
