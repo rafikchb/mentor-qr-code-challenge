@@ -22,3 +22,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 - [github.com/rafikchb](https://github.com/rafikchb)
+
+- trace of article app
